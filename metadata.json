@@ -1,0 +1,6 @@
+{
+  "name": "Veya",
+  "description": "A private, dark-themed mobile web app to create and chat with custom AI characters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
